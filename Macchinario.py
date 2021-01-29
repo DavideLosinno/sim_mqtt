@@ -3,6 +3,7 @@ import math
 import random
 import time
 import json
+
 #creo la classe macchinario
 class Macchinario:
 
@@ -42,6 +43,6 @@ for i in range (1,6):
 while True:
     for m in macchine:
         m.InviaDati()
-    time.sleep(random.randint(1, 3))        
+    time.sleep(random.randint(1, 4))        
 
 #fhjcghdcds
