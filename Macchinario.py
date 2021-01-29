@@ -3,7 +3,7 @@ import math
 import random
 import time
 import json
-
+#creo la classe macchinario
 class Macchinario:
 
     def __init__(self,id,utente,password):
