@@ -44,4 +44,4 @@ while True:
         m.InviaDati()
     time.sleep(random.randint(1, 3))        
 
-
+#fhjcghdcds
